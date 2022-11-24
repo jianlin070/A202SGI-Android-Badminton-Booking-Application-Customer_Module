@@ -4,7 +4,7 @@ This badminton application is developed with Android Studio using Java and Fireb
 ## 🏸 Why badminton app?
 It aims to make the user's life easier when booking badminton courts and to keep track of all feedback provided by customers who use the same application.
 
-It is separated into two modules, User and [Staff](https://github.com/Str1ve/badminton-app-admin) Module.
+It is separated into two modules, User and [Staff](https://github.com/Str1ve/A202SGI-Android-Badminton-Booking-Application-Staff_Module) Module.
 
 ## 🏸 Features
 - Sign up & Sign In
